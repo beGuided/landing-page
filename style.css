@@ -76,14 +76,14 @@ p{
 [type=text]{
     background-color: rgba(61, 56, 56, 0.5);
     height:3em;
-    width: 70%;
+    width: 60%;
     border-radius: 5px;
 }
 [type=submit]{
   
     background-color: #37af65;
     color: white;
-    width: 20%;
+    width: 30%;
     padding: 0.2em 0.5em;
     margin: 8px 0;
     height:3em;
