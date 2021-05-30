@@ -109,6 +109,10 @@ p{
 
 /* mobile */
 @media (max-width: 600px) {
+    .container {
+        max-width: 570px;
+        margin: 0 auto;
+    }
 
     .nav{
         display: none;
@@ -128,16 +132,12 @@ p{
 
 
 
-
-
-
-
-
 /* ipad */
 
 @media (max-width: 768px) {
     .container {
         max-width: 720px;
+        margin: 0 auto;
     }
     .title {
         font-size: 40px;
